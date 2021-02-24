@@ -2,119 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://oldc.me/2016/05/12/windows/rootkit/shellcode/</loc>
+    <loc>https://oldchan.net/2016/05/12/windows/rootkit/shellcode/</loc>
     
-    <lastmod>2021-02-22T03:54:16.906Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2018/09/10/windows/pe/pe_loader/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.903Z</lastmod>
+    <lastmod>2021-02-24T05:00:52.016Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
+    <loc>https://oldchan.net/2018/09/10/windows/pe/pe_loader/</loc>
     
-    <lastmod>2021-02-22T03:54:16.899Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2018/09/10/redis/types/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.895Z</lastmod>
+    <lastmod>2021-02-24T05:00:52.012Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2018/09/23/redis/type_hash/</loc>
+    <loc>https://oldchan.net/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
     
-    <lastmod>2021-02-22T03:54:16.892Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2018/08/24/redis/startup/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.889Z</lastmod>
+    <lastmod>2021-02-24T05:00:52.008Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2018/08/23/redis/some_question/</loc>
+    <loc>https://oldchan.net/2018/09/10/redis/types/</loc>
     
-    <lastmod>2021-02-22T03:54:16.884Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2017/01/22/linux/cmds/top/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.880Z</lastmod>
+    <lastmod>2021-02-24T05:00:52.005Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2017/06/23/linux/cmds/test/</loc>
+    <loc>https://oldchan.net/2018/09/23/redis/type_hash/</loc>
     
-    <lastmod>2021-02-22T03:54:16.877Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2016/05/27/language/php/fibonacci_sequence/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.873Z</lastmod>
+    <lastmod>2021-02-24T05:00:51.992Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2018/09/10/language/go/when_process_exit/</loc>
+    <loc>https://oldchan.net/2018/08/24/redis/startup/</loc>
     
-    <lastmod>2021-02-22T03:54:16.869Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldc.me/2017/01/19/blog/static_blog/</loc>
-    
-    <lastmod>2021-02-22T03:54:16.865Z</lastmod>
+    <lastmod>2021-02-24T05:00:51.988Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/2017/08/30/blog/interaction/</loc>
+    <loc>https://oldchan.net/2017/01/22/linux/cmds/top/</loc>
     
-    <lastmod>2021-02-22T03:54:16.862Z</lastmod>
+    <lastmod>2021-02-24T05:00:51.985Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/about/index.html</loc>
+    <loc>https://oldchan.net/2017/06/23/linux/cmds/test/</loc>
+    
+    <lastmod>2021-02-24T05:00:51.981Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2018/09/10/language/go/when_process_exit/</loc>
+    
+    <lastmod>2021-02-24T05:00:51.977Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2021/02/20/language/go/struct_like_class/</loc>
+    
+    <lastmod>2021-02-24T05:00:51.962Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2017/01/19/blog/static_blog/</loc>
+    
+    <lastmod>2021-02-24T05:00:51.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2017/08/30/blog/interaction/</loc>
+    
+    <lastmod>2021-02-24T05:00:51.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/about/index.html</loc>
     
     <lastmod>2021-02-20T08:48:42.907Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/tags/index.html</loc>
+    <loc>https://oldchan.net/tags/index.html</loc>
     
     <lastmod>2021-02-20T07:36:21.370Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/categories/index.html</loc>
+    <loc>https://oldchan.net/categories/index.html</loc>
     
     <lastmod>2021-02-20T07:36:21.357Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://oldc.me/history/index.html</loc>
+    <loc>https://oldchan.net/history/index.html</loc>
     
     <lastmod>2021-02-20T07:36:21.139Z</lastmod>
     

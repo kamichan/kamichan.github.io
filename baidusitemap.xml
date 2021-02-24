@@ -4,8 +4,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2016/05/12/windows/rootkit/shellcode/</loc>
-    <lastmod>2021-02-22T03:54:16.906Z</lastmod>
+    <loc>https://oldchan.net/2016/05/12/windows/rootkit/shellcode/</loc>
+    <lastmod>2021-02-24T05:00:52.016Z</lastmod>
     <data>
         <display>
         <title>ShellCode For LoadLibrary</title>
@@ -13,14 +13,10 @@
         
         <tag>注入</tag>
          
-        <tag>CreateRemoteThread</tag>
-         
-        <tag>LoadLibrary</tag>
-         
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -28,17 +24,19 @@
 
     
   <url>
-    <loc>https://oldc.me/2018/09/10/windows/pe/pe_loader/</loc>
-    <lastmod>2021-02-22T03:54:16.903Z</lastmod>
+    <loc>https://oldchan.net/2018/09/10/windows/pe/pe_loader/</loc>
+    <lastmod>2021-02-24T05:00:52.012Z</lastmod>
     <data>
         <display>
         <title>PE文件加载器</title>
         <pubTime>2018-09-10T13:39:49.000Z</pubTime>
         
+        <tag>Windows</tag>
+         
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -46,8 +44,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
-    <lastmod>2021-02-22T03:54:16.899Z</lastmod>
+    <loc>https://oldchan.net/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
+    <lastmod>2021-02-24T05:00:52.008Z</lastmod>
     <data>
         <display>
         <title>Windows系统服务描述表</title>
@@ -55,14 +53,10 @@
         
         <tag>Windows内核</tag>
          
-        <tag>服务描述表</tag>
-         
-        <tag>KeServiceDescriptorTable</tag>
-         
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -70,8 +64,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2018/09/10/redis/types/</loc>
-    <lastmod>2021-02-22T03:54:16.895Z</lastmod>
+    <loc>https://oldchan.net/2018/09/10/redis/types/</loc>
+    <lastmod>2021-02-24T05:00:52.005Z</lastmod>
     <data>
         <display>
         <title>Redis中常用数据结构</title>
@@ -82,7 +76,7 @@
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -90,8 +84,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2018/09/23/redis/type_hash/</loc>
-    <lastmod>2021-02-22T03:54:16.892Z</lastmod>
+    <loc>https://oldchan.net/2018/09/23/redis/type_hash/</loc>
+    <lastmod>2021-02-24T05:00:51.992Z</lastmod>
     <data>
         <display>
         <title>Redis数据结构之hash</title>
@@ -99,12 +93,10 @@
         
         <tag>redis</tag>
          
-        <tag>hash</tag>
-         
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -112,8 +104,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2018/08/24/redis/startup/</loc>
-    <lastmod>2021-02-22T03:54:16.889Z</lastmod>
+    <loc>https://oldchan.net/2018/08/24/redis/startup/</loc>
+    <lastmod>2021-02-24T05:00:51.988Z</lastmod>
     <data>
         <display>
         <title>浅析redis启动流程</title>
@@ -121,12 +113,10 @@
         
         <tag>redis</tag>
          
-        <tag>启动redis</tag>
-         
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -134,41 +124,19 @@
 
     
   <url>
-    <loc>https://oldc.me/2018/08/23/redis/some_question/</loc>
-    <lastmod>2021-02-22T03:54:16.884Z</lastmod>
-    <data>
-        <display>
-        <title>Redis小知识</title>
-        <pubTime>2018-08-23T02:16:31.000Z</pubTime>
-        
-        <tag>redis</tag>
-         
-         
-           
-             
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://oldc.me/2017/01/22/linux/cmds/top/</loc>
-    <lastmod>2021-02-22T03:54:16.880Z</lastmod>
+    <loc>https://oldchan.net/2017/01/22/linux/cmds/top/</loc>
+    <lastmod>2021-02-24T05:00:51.985Z</lastmod>
     <data>
         <display>
         <title>top命令</title>
         <pubTime>2017-01-21T17:15:44.000Z</pubTime>
         
-        <tag>top</tag>
-         
-        <tag>进程列表</tag>
+        <tag>Linux命令</tag>
          
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -176,21 +144,19 @@
 
     
   <url>
-    <loc>https://oldc.me/2017/06/23/linux/cmds/test/</loc>
-    <lastmod>2021-02-22T03:54:16.877Z</lastmod>
+    <loc>https://oldchan.net/2017/06/23/linux/cmds/test/</loc>
+    <lastmod>2021-02-24T05:00:51.981Z</lastmod>
     <data>
         <display>
         <title>test命令</title>
         <pubTime>2017-06-23T05:29:56.000Z</pubTime>
         
-        <tag>test</tag>
-         
-        <tag>左括号指令</tag>
+        <tag>Linux命令</tag>
          
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -198,28 +164,8 @@
 
     
   <url>
-    <loc>https://oldc.me/2016/05/27/language/php/fibonacci_sequence/</loc>
-    <lastmod>2021-02-22T03:54:16.873Z</lastmod>
-    <data>
-        <display>
-        <title>斐波那契数列(走十个台阶算法)</title>
-        <pubTime>2016-05-27T12:46:35.000Z</pubTime>
-        
-        <tag>斐波那契数列</tag>
-         
-         
-           
-             
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://oldc.me/2018/09/10/language/go/when_process_exit/</loc>
-    <lastmod>2021-02-22T03:54:16.869Z</lastmod>
+    <loc>https://oldchan.net/2018/09/10/language/go/when_process_exit/</loc>
+    <lastmod>2021-02-24T05:00:51.977Z</lastmod>
     <data>
         <display>
         <title>Go语言监听进程退出信号</title>
@@ -230,7 +176,7 @@
          
            
              
-              <breadCrumb title="Technology" url="https://oldc.me/categories/Technology/"/>
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
           
         </display>
     </data>
@@ -238,19 +184,39 @@
 
     
   <url>
-    <loc>https://oldc.me/2017/01/19/blog/static_blog/</loc>
-    <lastmod>2021-02-22T03:54:16.865Z</lastmod>
+    <loc>https://oldchan.net/2021/02/20/language/go/struct_like_class/</loc>
+    <lastmod>2021-02-24T05:00:51.962Z</lastmod>
+    <data>
+        <display>
+        <title>实现类似class的析构函数</title>
+        <pubTime>2021-02-20T08:58:58.000Z</pubTime>
+        
+        <tag>Go</tag>
+         
+         
+           
+             
+              <breadCrumb title="Technology" url="https://oldchan.net/categories/Technology/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://oldchan.net/2017/01/19/blog/static_blog/</loc>
+    <lastmod>2021-02-24T05:00:51.958Z</lastmod>
     <data>
         <display>
         <title>借助Hexo搭建静态博客</title>
         <pubTime>2017-01-19T05:53:48.000Z</pubTime>
         
-        <tag>Hexo</tag>
+        <tag>博客</tag>
          
          
            
              
-              <breadCrumb title="Unclassified" url="https://oldc.me/categories/Unclassified/"/>
+              <breadCrumb title="Unclassified" url="https://oldchan.net/categories/Unclassified/"/>
           
         </display>
     </data>
@@ -258,19 +224,19 @@
 
     
   <url>
-    <loc>https://oldc.me/2017/08/30/blog/interaction/</loc>
-    <lastmod>2021-02-22T03:54:16.862Z</lastmod>
+    <loc>https://oldchan.net/2017/08/30/blog/interaction/</loc>
+    <lastmod>2021-02-24T05:00:51.955Z</lastmod>
     <data>
         <display>
         <title>静态博客实现动态交互</title>
         <pubTime>2017-08-30T06:05:57.000Z</pubTime>
         
-        <tag>评论</tag>
+        <tag>博客</tag>
          
          
            
              
-              <breadCrumb title="Unclassified" url="https://oldc.me/categories/Unclassified/"/>
+              <breadCrumb title="Unclassified" url="https://oldchan.net/categories/Unclassified/"/>
           
         </display>
     </data>
