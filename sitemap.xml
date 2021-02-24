@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oldchan.net/2017/08/30/blog/interaction/</loc>
+    
+    <lastmod>2021-02-24T08:57:58.709Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2017/01/22/linux/cmds/top/</loc>
+    
+    <lastmod>2021-02-24T08:55:05.329Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2017/06/23/linux/cmds/test/</loc>
+    
+    <lastmod>2021-02-24T08:54:55.732Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2018/09/10/language/go/when_process_exit/</loc>
+    
+    <lastmod>2021-02-24T08:54:43.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/guestbook/index.html</loc>
+    
+    <lastmod>2021-02-24T08:53:21.582Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://oldchan.net/about/index.html</loc>
     
-    <lastmod>2021-02-24T08:12:46.390Z</lastmod>
+    <lastmod>2021-02-24T08:50:14.225Z</lastmod>
     
   </url>
   
@@ -51,27 +86,6 @@
   </url>
   
   <url>
-    <loc>https://oldchan.net/2017/01/22/linux/cmds/top/</loc>
-    
-    <lastmod>2021-02-24T05:00:51.985Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldchan.net/2017/06/23/linux/cmds/test/</loc>
-    
-    <lastmod>2021-02-24T05:00:51.981Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldchan.net/2018/09/10/language/go/when_process_exit/</loc>
-    
-    <lastmod>2021-02-24T05:00:51.977Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://oldchan.net/2021/02/20/language/go/struct_like_class/</loc>
     
     <lastmod>2021-02-24T05:00:51.962Z</lastmod>
@@ -82,13 +96,6 @@
     <loc>https://oldchan.net/2017/01/19/blog/static_blog/</loc>
     
     <lastmod>2021-02-24T05:00:51.958Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldchan.net/2017/08/30/blog/interaction/</loc>
-    
-    <lastmod>2021-02-24T05:00:51.955Z</lastmod>
     
   </url>
   
