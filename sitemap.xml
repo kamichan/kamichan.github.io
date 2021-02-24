@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oldchan.net/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
+    
+    <lastmod>2021-02-24T10:58:36.863Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://oldchan.net/2018/08/24/redis/startup/</loc>
+    
+    <lastmod>2021-02-24T10:56:57.765Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://oldchan.net/2017/08/30/blog/interaction/</loc>
     
     <lastmod>2021-02-24T08:57:58.709Z</lastmod>
@@ -58,13 +72,6 @@
   </url>
   
   <url>
-    <loc>https://oldchan.net/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
-    
-    <lastmod>2021-02-24T05:00:52.008Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://oldchan.net/2018/09/10/redis/types/</loc>
     
     <lastmod>2021-02-24T05:00:52.005Z</lastmod>
@@ -75,13 +82,6 @@
     <loc>https://oldchan.net/2018/09/23/redis/type_hash/</loc>
     
     <lastmod>2021-02-24T05:00:51.992Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldchan.net/2018/08/24/redis/startup/</loc>
-    
-    <lastmod>2021-02-24T05:00:51.988Z</lastmod>
     
   </url>
   
