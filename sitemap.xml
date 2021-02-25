@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oldchan.net/about/index.html</loc>
+    
+    <lastmod>2021-02-25T03:10:06.013Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://oldchan.net/2014/09/13/windows/kernel/ke_service_descriptor_table/</loc>
     
     <lastmod>2021-02-24T10:58:36.863Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>https://oldchan.net/guestbook/index.html</loc>
     
     <lastmod>2021-02-24T08:53:21.582Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://oldchan.net/about/index.html</loc>
-    
-    <lastmod>2021-02-24T08:50:14.225Z</lastmod>
     
   </url>
   
